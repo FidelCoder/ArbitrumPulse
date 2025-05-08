@@ -1,0 +1,50 @@
+# Node.js dependencies
+node_modules/
+package-lock.json
+yarn.lock
+
+# Environment variables
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Cursor IDE specific
+.cursor/
+
+# Build and output directories
+dist/
+build/
+out/
+
+# Log files
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS specific files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editor directories and files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+
+# Private keys and secrets
+**/private_keys.js
+**/secrets.js
+
+# Testing
+coverage/
+.nyc_output/ 

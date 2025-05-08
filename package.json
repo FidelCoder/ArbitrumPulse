@@ -1,0 +1,41 @@
+{
+  "name": "arbitrum-pulse",
+  "version": "1.0.0",
+  "description": "Code examples for Arbitrum Pulse bootcamps across Africa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "orbit:e-governance": "node code-snippets/orbit/e_governance_marketplace.js",
+    "orbit:fintech": "node code-snippets/orbit/fintech_bridge.js",
+    "orbit:trade": "node code-snippets/orbit/trade_platform.js",
+    "orbit:logistics": "node code-snippets/orbit/logistics_network.js",
+    "orbit:microfinance": "node code-snippets/orbit/microfinance_hub.js"
+  },
+  "keywords": [
+    "arbitrum",
+    "stylus",
+    "orbit",
+    "blockchain",
+    "africa",
+    "ethereum",
+    "layer3"
+  ],
+  "author": "Umojaverse (Griffins Oduol)",
+  "license": "MIT",
+  "dependencies": {
+    "@arbitrum/orbit-sdk": "^0.1.0",
+    "dotenv": "^16.0.3",
+    "ethers": "^5.7.2"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Umojaverse/ArbitrumPulse.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Umojaverse/ArbitrumPulse/issues"
+  },
+  "homepage": "https://github.com/Umojaverse/ArbitrumPulse#readme"
+} 

@@ -1,0 +1,29 @@
+# ArbitrumPulse Project Rules
+
+## Coding Standards
+- Use SafeMath for arithmetic operations in Solidity
+- Implement proper error handling for all transactions
+- Follow gas optimization best practices
+- Document functions with NatSpec comments
+- Use consistent naming conventions across the codebase
+- Write comprehensive test cases for all smart contracts
+
+## Project Structure
+- Place contracts in /contracts directory
+- Place tests in /test directory
+- Place deployment scripts in /scripts directory
+- Place frontend code in /frontend directory
+- Keep documentation in /docs directory
+
+## Development Workflow
+- Create feature branches from development branch
+- Submit pull requests for code review before merging
+- Run tests locally before pushing code
+- Follow the commit message convention: type(scope): message
+
+## Security Guidelines
+- Conduct security audits before deployment
+- Implement access control mechanisms
+- Validate all user inputs
+- Use secure dependency versions
+- Never expose private keys or sensitive data in code 

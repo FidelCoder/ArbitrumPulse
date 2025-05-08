@@ -30,6 +30,20 @@ We've included validation scripts to verify the code integrity:
 
 These scripts check for proper code structure, required imports, and consistent implementation.
 
+## Presentation Deck
+
+A comprehensive presentation deck for the bootcamps is available in the docs directory:
+
+- [Markdown Source](./docs/arbitrum_pulse_deck.md) - Marp-compatible markdown
+- [PDF Version](./docs/arbitrum_pulse_deck.pdf) - Ready for presentation
+- [PowerPoint Version](./docs/arbitrum_pulse_deck.pptx) - Editable in PowerPoint
+
+To customize or generate new versions:
+```bash
+npm install --save-dev @marp-team/marp-cli
+npx marp docs/arbitrum_pulse_deck.md -o docs/arbitrum_pulse_deck.pdf
+```
+
 ## Setup and Requirements
 
 ### For Stylus Examples:

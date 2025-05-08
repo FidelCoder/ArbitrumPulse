@@ -29,6 +29,24 @@ This directory contains Rust-based Stylus smart contract examples for Arbitrum, 
    - Cross-border payment system with low fees
    - Optimized for mobile money integration
 
+## Validation and Testing
+
+We've included validation scripts to verify code integrity:
+
+```bash
+# Run the comprehensive validation script
+node check.js
+
+# Check a specific contract
+node check_contract.js microfinance_dao.rs
+```
+
+These scripts verify:
+- Proper Rust syntax and structure
+- Required Stylus SDK imports
+- Public functions and implementation blocks
+- External attributes and other critical elements
+
 ## General Setup
 
 All examples share these basic setup requirements:

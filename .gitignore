@@ -17,6 +17,11 @@ yarn.lock
 dist/
 build/
 out/
+target/
+
+# Rust specific
+**/*.rs.bk
+Cargo.lock
 
 # Log files
 logs/
@@ -39,11 +44,17 @@ Thumbs.db
 .vscode/
 *.swp
 *.swo
+*.sublime-project
+*.sublime-workspace
 
+# Arbitrum Pulse specific
+.arbitrum/
+.orbit/
 
 # Private keys and secrets
 **/private_keys.js
 **/secrets.js
+**/keys.json
 
 # Testing
 coverage/

@@ -1,6 +1,6 @@
 # Orbit Chain Demonstration Scripts
 
-This directory contains JavaScript/TypeScript scripts that demonstrate Arbitrum Orbit Chain (Layer 3) setup and interaction, tailored for local African use cases as part of the Arbitrum Pulse bootcamp curriculum.
+This directory contains JavaScript scripts that demonstrate Arbitrum Orbit Chain (Layer 3) setup and interaction, tailored for local African use cases as part of the Arbitrum Pulse bootcamp curriculum.
 
 ## Available Demonstrations
 
@@ -28,6 +28,26 @@ This directory contains JavaScript/TypeScript scripts that demonstrate Arbitrum 
    - [Code](./microfinance_hub.js) | [Documentation](./microfinance_hub_README.md)
    - Deploys a chain for community lending records
    - Supports multiple microfinance DAOs in a single ecosystem
+
+## Validation and Testing
+
+We've included validation scripts to verify code integrity:
+
+```bash
+# Run the comprehensive validation script
+node check.js
+
+# Run more detailed validation
+node validate.js
+```
+
+These scripts verify:
+- Required imports (ethers, createRollupChain)
+- Proper chain configuration
+- Unique chain IDs
+- Contract deployment code
+- Error handling
+- Environment configuration
 
 ## General Setup
 
@@ -67,6 +87,15 @@ All demonstrations share these basic setup requirements:
 - Each demonstration creates its own Orbit Chain with a unique Chain ID
 - The scripts automatically deploy smart contracts to the new chain
 - Monitor console output for RPC URLs and contract addresses
+
+## Chain ID Reference
+
+Each demonstration uses a unique Chain ID to avoid conflicts:
+- E-Governance Marketplace: `42069`
+- Fintech Bridge: `42070`
+- Trade Platform: `42071`
+- Logistics Network: `42080`
+- Microfinance Hub: `42090`
 
 ## Educational Purpose
 

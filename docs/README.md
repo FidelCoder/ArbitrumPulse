@@ -13,6 +13,13 @@ The deck includes:
 - Local African use cases for each technology
 - Workshop instructions and next steps
 
+## Logos
+
+The presentation uses the following logos from the `@Logos` folder:
+- `@arbitrum main.png` - Main Arbitrum logo
+- `@arbitrum orbit.png` - Arbitrum Orbit logo
+- `@stylus.png` - Stylus logo
+
 ## Render with Marp
 
 To generate a presentation from this markdown file:
@@ -54,8 +61,8 @@ The presentation uses Arbitrum's blue color scheme (#007bff) with a clean, minim
 - Font sizes in the CSS section
 - Color scheme
 - Slide transitions (by modifying the Marp directives)
-- Images (replace the placeholder URLs)
+- Images (replace the logos in the @Logos folder)
 
 ## Usage
 
-This slide deck is designed for use in the Arbitrum Pulse Bootcamps (May 4-11, 2025) across Ethiopia, Kenya, South Africa, Uganda, and Rwanda. 
+This slide deck is designed for use in the Arbitrum Pulse Bootcamps (May 15 - June 2, 2025) across Ethiopia, Kenya, South Africa, Uganda, and Rwanda. 

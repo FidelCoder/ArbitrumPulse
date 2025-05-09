@@ -39,9 +39,9 @@ paginate: true
 ---
 
 # Arbitrum Pulse Bootcamp
-### May 4-11, 2025
+### May 15 - June 2, 2025
 #### Umojaverse Initiative
-![Arbitrum Logo](https://arbitrum.foundation/assets/logo.svg)
+![Arbitrum Logo](@Logos/@arbitrum main.png)
 
 ---
 
@@ -57,20 +57,21 @@ paginate: true
 
 # Meet the Team
 
-- <span style='color:#007bff'>Griffins Oduol</span> - Lead Developer, Umojaverse
+- <span style='color:#007bff'>Umojaverse</span> - Blockchain Initiative
+- <span style='color:#007bff'>Griffins</span> - Lead Developer
+- <span style='color:#007bff'>Cyborg</span> - Technical Lead
 - <span style='color:#007bff'>Arbitrum Advocates</span> - Technical Support Team
 - <span style='color:#007bff'>Local Partners</span> across Ethiopia, Kenya, South Africa, Uganda, and Rwanda
-- <span style='color:#007bff'>You!</span> - The builders creating Africa's blockchain future
 
 ---
 
 # Bootcamp Agenda
 
-- <span style='color:#007bff'>Day 1</span>: Introduction to Arbitrum and Layer 2
-- <span style='color:#007bff'>Day 2</span>: Stylus Contract Development in Rust
-- <span style='color:#007bff'>Day 3</span>: Orbit Chains and Layer 3 Solutions
-- <span style='color:#007bff'>Day 4</span>: Hands-on Workshops with Local Use Cases
-- <span style='color:#007bff'>Day 5</span>: Hackathon and Project Development
+- <span style='color:#007bff'>Introduction to Arbitrum and Layer 2</span>
+- <span style='color:#007bff'>Stylus Contract Development in Rust</span>
+- <span style='color:#007bff'>Orbit Chains and Layer 3 Solutions</span>
+- <span style='color:#007bff'>Hands-on Workshops with Local Use Cases</span>
+- <span style='color:#007bff'>Hackathon and Project Development</span>
 
 ---
 
@@ -91,6 +92,8 @@ paginate: true
 - Perfect for African apps like remittances and marketplaces
 - Runs on <span style='color:#007bff'>Sepolia testnet</span> for practice
 - No special hardware needed to develop
+
+![Arbitrum Logo](@Logos/@arbitrum main.png)
 
 ---
 
@@ -129,6 +132,7 @@ paginate: true
 - <span style='color:#007bff'>Ethiopian coffee exports</span>: Transparent supply chain
 - <span style='color:#007bff'>South African logistics</span>: Tracking and verification
 - <span style='color:#007bff'>Rwandan voting</span>: Secure and transparent governance
+- <span style='color:#007bff'>Ugandan remittances</span>: Cross-border payment solutions
 
 ---
 
@@ -139,6 +143,8 @@ paginate: true
 - Perfect for <span style='color:#007bff'>computation-heavy</span> African use cases
 - <span style='color:#007bff'>Memory safe</span> and highly reliable
 - Deployable on <span style='color:#007bff'>Arbitrum Sepolia</span> testnet
+
+![Stylus Logo](@Logos/@stylus.png)
 
 ---
 
@@ -186,6 +192,7 @@ impl MicrofinanceDAO {
 - <span style='color:#007bff'>Trade escrow</span> systems for exporters (Ethiopia)
 - <span style='color:#007bff'>Voting platforms</span> for community decisions (Rwanda)
 - <span style='color:#007bff'>Supply chain tracking</span> for valuable goods (South Africa)
+- <span style='color:#007bff'>Remittance bridges</span> for mobile money (Uganda)
 
 ---
 
@@ -196,6 +203,8 @@ impl MicrofinanceDAO {
 - Offer <span style='color:#007bff'>ultra-low fees</span> (under $0.01 per transaction)
 - Can be <span style='color:#007bff'>governed</span> by local communities
 - Perfect for <span style='color:#007bff'>African-specific</span> applications
+
+![Orbit Logo](@Logos/@arbitrum orbit.png)
 
 ---
 
@@ -241,7 +250,7 @@ const chain = await createRollupChain(wallet, orbitChainConfig);
 
 # Workshop & Next Steps
 
-- <span style='color:#007bff'>Clone our GitHub repo</span>: github.com/Umojaverse/ArbitrumPulse
+- <span style='color:#007bff'>Clone our GitHub repo</span>: github.com/FidelCoder/ArbitrumPulse
 - <span style='color:#007bff'>Run validation scripts</span> to check your code works
 - <span style='color:#007bff'>Join our Discord</span> for ongoing support
 - <span style='color:#007bff'>Apply for grants</span> to build your Arbitrum project
@@ -251,9 +260,9 @@ const chain = await createRollupChain(wallet, orbitChainConfig);
 
 # Thank You!
 
-### Contact: griffins@umojaverse.org
-### Resources: arbitrum.io | github.com/Umojaverse/ArbitrumPulse
+### Contact: griffinesonyango@gmail.com
+### Resources: arbitrum.io | github.com/FidelCoder/ArbitrumPulse
 
-![Arbitrum Pulse Logo](https://arbitrum.foundation/assets/logo.svg)
+![Arbitrum Pulse Logo](@Logos/@arbitrum main.png)
 
 ### Building Africa's blockchain future together 

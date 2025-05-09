@@ -16,9 +16,10 @@ The deck includes:
 ## Logos
 
 The presentation uses the following logos from the `Logos` folder:
-- `arbitrum main.png` - Main Arbitrum logo
-- `arbitrum orbit.png` - Arbitrum Orbit logo
+- `arbitrummain.png` - Main Arbitrum logo
+- `arbitrumOrbit.png` - Arbitrum Orbit logo
 - `stylus.png` - Stylus logo
+- `UmojaverseLogo.png` - Umojaverse logo
 
 ## Render with Marp
 

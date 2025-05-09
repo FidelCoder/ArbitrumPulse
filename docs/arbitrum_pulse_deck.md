@@ -41,7 +41,7 @@ paginate: true
 # Arbitrum Pulse Bootcamp
 ### May 15 - June 2, 2025
 #### Umojaverse Initiative
-![Arbitrum Logo](@Logos/@arbitrum main.png)
+![Arbitrum Logo](../Logos/arbitrum main.png)
 
 ---
 
@@ -60,7 +60,7 @@ paginate: true
 - <span style='color:#007bff'>Umojaverse</span> - Blockchain Initiative
 - <span style='color:#007bff'>Griffins</span> - Lead Developer
 - <span style='color:#007bff'>Cyborg</span> - Technical Lead
-- <span style='color:#007bff'>Arbitrum Advocates</span> - Technical Support Team
+- <span style='color:#007bff'>Technical Support Team</span>
 - <span style='color:#007bff'>Local Partners</span> across Ethiopia, Kenya, South Africa, Uganda, and Rwanda
 
 ---
@@ -93,7 +93,7 @@ paginate: true
 - Runs on <span style='color:#007bff'>Sepolia testnet</span> for practice
 - No special hardware needed to develop
 
-![Arbitrum Logo](@Logos/@arbitrum main.png)
+![Arbitrum Logo](../Logos/arbitrum main.png)
 
 ---
 
@@ -144,7 +144,7 @@ paginate: true
 - <span style='color:#007bff'>Memory safe</span> and highly reliable
 - Deployable on <span style='color:#007bff'>Arbitrum Sepolia</span> testnet
 
-![Stylus Logo](@Logos/@stylus.png)
+![Stylus Logo](../Logos/stylus.png)
 
 ---
 
@@ -204,7 +204,7 @@ impl MicrofinanceDAO {
 - Can be <span style='color:#007bff'>governed</span> by local communities
 - Perfect for <span style='color:#007bff'>African-specific</span> applications
 
-![Orbit Logo](@Logos/@arbitrum orbit.png)
+![Orbit Logo](../Logos/arbitrum orbit.png)
 
 ---
 
@@ -263,6 +263,6 @@ const chain = await createRollupChain(wallet, orbitChainConfig);
 ### Contact: griffinesonyango@gmail.com
 ### Resources: arbitrum.io | github.com/FidelCoder/ArbitrumPulse
 
-![Arbitrum Pulse Logo](@Logos/@arbitrum main.png)
+![Arbitrum Pulse Logo](../Logos/arbitrum main.png)
 
 ### Building Africa's blockchain future together 

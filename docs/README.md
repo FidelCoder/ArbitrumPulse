@@ -15,10 +15,10 @@ The deck includes:
 
 ## Logos
 
-The presentation uses the following logos from the `@Logos` folder:
-- `@arbitrum main.png` - Main Arbitrum logo
-- `@arbitrum orbit.png` - Arbitrum Orbit logo
-- `@stylus.png` - Stylus logo
+The presentation uses the following logos from the `Logos` folder:
+- `arbitrum main.png` - Main Arbitrum logo
+- `arbitrum orbit.png` - Arbitrum Orbit logo
+- `stylus.png` - Stylus logo
 
 ## Render with Marp
 
@@ -61,7 +61,7 @@ The presentation uses Arbitrum's blue color scheme (#007bff) with a clean, minim
 - Font sizes in the CSS section
 - Color scheme
 - Slide transitions (by modifying the Marp directives)
-- Images (replace the logos in the @Logos folder)
+- Images (replace the logos in the Logos folder)
 
 ## Usage
 
